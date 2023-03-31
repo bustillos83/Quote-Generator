@@ -22,5 +22,5 @@ If you have any feedback, please reach out to us at bustillos007@gmail.com
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bustillos83.github.io/Bustillos.Portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandobustillos/)
-
+<a https://bustillos83.github.io/Quote-Generator/" target="_blank">Quote Generator</a>
 
